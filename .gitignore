@@ -1,0 +1,13 @@
+# 使用git 提交文件
+
+.ruff_cache
+
+anno/
+
+day/
+
+images/
+
+night/
+
+raw/
